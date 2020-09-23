@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\p2p0hne5Jkje0pp4EvfC4QGc8aPc8lfS6g_bVZ1O6Ew=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RRY_zsz49CiaqgBB48KOf1RA6CMvzue7sktiNNAbGlg=.hash",
       "Source": "C:\\Users\\Tim Chiu\\OneDrive\\coding\\VisualStudio\\2020\\catEncyption-Web\\BlazorApp1\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\catEncryption-Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/catEncryption-Web.dll.gz"
     },
@@ -256,7 +256,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-cpZrQUUTW8GzHxCFYnc70JiXE-qfpu2tpqcAU-1p04=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FHWYUWfd4RWjqOq1rUhowrYLSM2T3O0tGmwlJij5Gsw=.hash",
       "Source": "C:\\Users\\Tim Chiu\\OneDrive\\coding\\VisualStudio\\2020\\catEncyption-Web\\BlazorApp1\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\catEncryption-Web.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/catEncryption-Web.pdb.gz"
     },
@@ -281,7 +281,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\k50rV4nNmYEx5RQH9FXJ9_sgo2ohrUuXzGbB965wNUc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PsvY4HDS0IuUHBkYOEeIS9VgPAvkzuP19NoBJvEbfOc=.hash",
       "Source": "C:\\Users\\Tim Chiu\\OneDrive\\coding\\VisualStudio\\2020\\catEncyption-Web\\BlazorApp1\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

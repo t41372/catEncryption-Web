@@ -22,9 +22,9 @@
     private string alertLevel = "light";
     private string alertInfo = "";
 
-    private string plainText;
+    private string plainText = "";
 
-    private string codedText;
+    private string codedText = "";
 
 
     private void encodeText()
@@ -38,6 +38,7 @@
         catch
         {
             //nothing have to be done if user did not enter anything...
+            giveAlert("Empty Content");
         }
     }
 
@@ -50,10 +51,13 @@
         }
         catch
         {
-            if(plainText.Replace(" ", "").Length != 0)
+            if (codedText.Length != 0 && codedText.Replace(" ", "").Length != 0)
+            {
                 giveAlert("Decode Error. \nThis can cause by not-make-sense-ciphertext \n" +
                     "(Meow code should only consist of, 1, Meow or 喵, 2, space, 3, !)\n" +
                     "or empty ciphertext");
+            }
+            else giveAlert("Empty Content");
         }
     }
 

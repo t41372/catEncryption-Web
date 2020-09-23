@@ -522,7 +522,6 @@ C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.RazorTargetAssemblyInfo.cache
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\BlazorApp1.csproj.CopyComplete
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\p2p0hne5Jkje0pp4EvfC4QGc8aPc8lfS6g_bVZ1O6Ew=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -573,13 +572,11 @@ C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\-cpZrQUUTW8GzHxCFYnc70JiXE-qfpu2tpqcAU-1p04=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\k50rV4nNmYEx5RQH9FXJ9_sgo2ohrUuXzGbB965wNUc=.hash
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\catEncryption-Web.dll.gz
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -698,3 +695,6 @@ C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\staticwebassets\catEncryption-Web.StaticWebAssets.xml
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\catEncryption-Web.dll
 C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\catEncryption-Web.pdb
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\RRY_zsz49CiaqgBB48KOf1RA6CMvzue7sktiNNAbGlg=.hash
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\FHWYUWfd4RWjqOq1rUhowrYLSM2T3O0tGmwlJij5Gsw=.hash
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-Web\BlazorApp1\obj\Debug\netstandard2.1\integrity\PsvY4HDS0IuUHBkYOEeIS9VgPAvkzuP19NoBJvEbfOc=.hash
