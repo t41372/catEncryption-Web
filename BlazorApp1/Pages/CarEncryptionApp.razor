@@ -1,0 +1,84 @@
+﻿@page "/CarEncryptionApp"
+
+<div class="alert-@alertLevel">@alertInfo</div>
+
+<h6>This is plain text box (uncoded)</h6>
+<textarea style="width:600px;height:200px;" title="plainTextBox" @bind="plainText"> </textarea>
+
+<h6> </h6>
+
+<button @onclick="encodeText">Text -> Meow</button>
+<button @onclick="decodeText">Meow -> Text</button>
+<button @onclick="clear">Clear</button>
+
+<h6>This is Meow text box (coded)</h6>
+<textarea style="width:600px;height:200px;" title="meowTextBox" @bind="codedText"></textarea>
+
+
+@code
+{
+    private string Meow = "喵";
+
+    private string alertLevel = "light";
+    private string alertInfo = "";
+
+    private string plainText;
+
+    private string codedText;
+
+
+    private void encodeText()
+    {
+        clearErrorMessage();
+
+        try
+        {
+            codedText = catEncryption.encrypt(plainText, Meow);//encode it and give it to coded text box
+        }
+        catch
+        {
+            //nothing have to be done if user did not enter anything...
+        }
+    }
+
+    private void decodeText()
+    {
+        clearErrorMessage();
+        try
+        {
+            plainText = catEncryption.decode(codedText, Meow);// decode it and give it to plain text box
+        }
+        catch
+        {
+            if(plainText.Replace(" ", "").Length != 0)
+                giveAlert("Decode Error. \nThis can cause by not-make-sense-ciphertext \n" +
+                    "(Meow code should only consist of, 1, Meow or 喵, 2, space, 3, !)\n" +
+                    "or empty ciphertext");
+        }
+    }
+
+    private void clear()
+    {
+        plainText = "";
+        codedText = "";
+        clearErrorMessage();
+    }
+
+    private void clearErrorMessage()
+    {
+        //clear error info if it exists
+        if (alertLevel == "danger")
+        {
+            alertLevel = "light";
+            alertInfo = " ";
+        }
+    }
+
+    private void giveAlert(string info)
+    {
+        alertLevel = "danger";
+        alertInfo = info;
+    }
+
+
+}
