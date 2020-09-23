@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="catEncryption-Web">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
