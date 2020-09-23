@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "catEncryption-Web.dll": "sha256-V6J1OqiufMt981yWxW5lAJ6XGFq9OdDZHx35\/VkOwxk=",
+      "catEncryption-Web.dll": "sha256-VsdWGzs2DdoP6iY8UxrxBxIviOnriesggfgC7Hx9N8w=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-Bs1Wrmh4ex9dTEIT0yCRF52N\/wOmsBDt457BHr0\/ssM=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -59,7 +59,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "catEncryption-Web.pdb": "sha256-fnS8XGUBWO+UygAFcgtjd\/UmZaQpa+Frq+JaSmVZbic="
+      "catEncryption-Web.pdb": "sha256-97dPlnZdOIbyUxxoAPnFFr8Axm0QxWlyha5irNSavlc="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
